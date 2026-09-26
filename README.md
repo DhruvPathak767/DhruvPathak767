@@ -408,31 +408,7 @@ RESULT   → AI-first developer intelligence platform: code analysis,
 
 <br/>
 
----
 
-## `// ENGINEERING ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvPathak767&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution+Activity" alt="Dhruv Pathak GitHub Activity Graph" />
-
-</div>
-
-<br/>
-
----
-
-## `// ENGINEERING TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DhruvPathak767&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Dhruv Pathak GitHub Trophies" />
-
-</div>
-
-<br/>
-
----
 
 ## `// CONNECT`
 
