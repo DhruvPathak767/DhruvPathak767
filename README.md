@@ -395,14 +395,14 @@ RESULT   → AI-first developer intelligence platform: code analysis,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvPathak767&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=7c3aed&text_color=ffffff&bg_color=0a0a0f" alt="Dhruv Pathak GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvPathak767&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0a0a0f" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvPathak767&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117" alt="Dhruv Pathak GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvPathak767&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DhruvPathak767&theme=transparent&hide_border=true&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=DhruvPathak767&theme=tokyonight-duo&hide_border=true&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=888888" alt="GitHub Streak" />
 
 </div>
 
@@ -414,7 +414,12 @@ RESULT   → AI-first developer intelligence platform: code analysis,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/profile-3d-contrib.svg" alt="3D GitHub Contribution Graph — Dhruv Pathak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/profile-3d-contrib.svg" />
+  <img src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/profile-3d-contrib.svg" alt="3D GitHub Contribution Graph — Dhruv Pathak" />
+</picture>
+
+> *3D graph auto-generates via GitHub Actions — run the `Generate 3D Contribution Graph` workflow to populate this.*
 
 </div>
 
@@ -426,7 +431,13 @@ RESULT   → AI-first developer intelligence platform: code analysis,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> *Snake animation auto-generates via GitHub Actions — run the `Generate Contribution Snake` workflow to populate this.*
 
 </div>
 
