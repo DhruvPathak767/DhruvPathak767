@@ -410,16 +410,11 @@ RESULT   → AI-first developer intelligence platform: code analysis,
 
 ---
 
-## `// 3D CONTRIBUTION MATRIX`
+## `// ENGINEERING ACTIVITY`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/profile-3d-contrib.svg" />
-  <img src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/profile-3d-contrib.svg" alt="3D GitHub Contribution Graph — Dhruv Pathak" />
-</picture>
-
-> *3D graph auto-generates via GitHub Actions — run the `Generate 3D Contribution Graph` workflow to populate this.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvPathak767&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution+Activity" alt="Dhruv Pathak GitHub Activity Graph" />
 
 </div>
 
@@ -427,17 +422,11 @@ RESULT   → AI-first developer intelligence platform: code analysis,
 
 ---
 
-## `// CONTRIBUTION FLOW`
+## `// ENGINEERING TROPHIES`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/stats/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> *Snake animation auto-generates via GitHub Actions — run the `Generate Contribution Snake` workflow to populate this.*
+<img src="https://github-profile-trophy.vercel.app/?username=DhruvPathak767&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Dhruv Pathak GitHub Trophies" />
 
 </div>
 
