@@ -395,8 +395,8 @@ RESULT   → AI-first developer intelligence platform: code analysis,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhruvPathak767&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117" alt="Dhruv Pathak GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvPathak767&layout=compact&theme=tokyonight&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DhruvPathak767&theme=tokyonight" alt="Dhruv Pathak GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhruvPathak767&theme=tokyonight" alt="Top Languages by Repo" />
 
 </div>
 
