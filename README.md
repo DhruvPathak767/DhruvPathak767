@@ -18,7 +18,7 @@
 <!-- ⚡ DYNAMIC HOLOGRAPHIC TYPING HEADER       -->
 <!-- ========================================== -->
 <a href="https://dhruv-3d-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=780&height=48&lines=DHRUV+PATHAK+%E2%80%94+AI+%26+FULL-STACK+SYSTEMS+ENGINEER;BUILDING+AUTONOMOUS+AGENTIC+AI+WORKFLOWS;COMPUTER+VISION+%C2%B7+YOLOv8+%C2%B7+LANGGRAPH+%C2%B7+FASTAPI;EXPLORE+MY+IMMERSIVE+3D+WEB+PORTFOLIO+%E2%86%92" alt="Dhruv Pathak — AI and Full-Stack Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=660&height=44&lines=DHRUV+PATHAK+%E2%80%94+AI+%26+FULL-STACK+ENGINEER;BUILDING+AGENTIC+AI+SYSTEMS+%26+APPLIED+ML;COMPUTER+VISION+%C2%B7+YOLOv8+%C2%B7+FASTAPI+%C2%B7+LANGGRAPH;EXPLORE+MY+IMMERSIVE+3D+WEB+PORTFOLIO+%E2%86%92" alt="Dhruv Pathak — AI and Full-Stack Engineer" />
 </a>
 
 <br/>
@@ -43,17 +43,17 @@
 
 <table border="0" width="100%">
 <tr>
-<td width="40%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<!-- Moving 3D Full-Body Hologram Avatar -->
+<!-- Moving 3D Full-Body Hologram Avatar (Crystal Clear 24 FPS) -->
 <a href="https://dhruv-3d-portfolio.vercel.app" title="Launch 3D Web Portfolio">
-  <img src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/hero/dhruv_avatar_animated.gif" alt="Dhruv Pathak — 3D Moving Avatar" width="100%" />
+  <img src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/hero/dhruv_avatar_animated.gif" alt="Dhruv Pathak — 3D Moving Avatar Doing Namaste" width="100%" />
 </a>
 <br/>
-<sub><code>◈ DHRUV_AVATAR // 3D_NEURAL_HOLOGRAM_ACTIVE ◈</code></sub>
+<sub><code>◈ DHRUV_AVATAR // 3D_NAMASTE_GREETING_ACTIVE ◈</code></sub>
 
 </td>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 ```yaml
 # ── OPERATOR TELEMETRY // BIO DATA ───────────────
