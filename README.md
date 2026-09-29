@@ -45,12 +45,12 @@
 <tr>
 <td width="45%" align="center" valign="middle">
 
-<!-- Moving 3D Full-Body Hologram Avatar (Crystal Clear 24 FPS) -->
+<!-- Moving 3D Full-Body Hologram Avatar (Smooth 20 FPS // Hi & Welcome Greeting) -->
 <a href="https://dhruv-3d-portfolio.vercel.app" title="Launch 3D Web Portfolio">
-  <img src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/hero/dhruv_avatar_animated.gif" alt="Dhruv Pathak — 3D Moving Avatar Doing Namaste" width="100%" />
+  <img src="https://raw.githubusercontent.com/DhruvPathak767/DhruvPathak767/main/assets/hero/dhruv_avatar_animated.gif" alt="Dhruv Pathak — 3D Moving Avatar Greeting: Hi! Welcome to my GitHub" width="100%" />
 </a>
 <br/>
-<sub><code>◈ DHRUV_AVATAR // 3D_NAMASTE_GREETING_ACTIVE ◈</code></sub>
+<sub><code>◈ DHRUV_AVATAR // 3D_WAVE_GREETING_ACTIVE // "HI, WELCOME TO MY GITHUB" ◈</code></sub>
 
 </td>
 <td width="55%" valign="top">
